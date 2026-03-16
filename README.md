@@ -1,5 +1,7 @@
 # NCSAS 2026 — AI-Based Leukemia Detection: Model Extension
 
+## Authors: Ayush Patel, Yuval Dinodia, Rohin Patel
+
 Fine-tuning [DinoBloom-G](https://github.com/marrlab/DinoBloom) (ViT-G/14, 1.1B parameters) for leukemia subtype classification, with cross-institutional generalization experiments and knowledge retention analysis.
 
 ---
